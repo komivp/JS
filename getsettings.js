@@ -1,1 +1,1 @@
-[["http://browser.appfxml.com/jsobf/load.js.php?ver=3&beta=1&from=khub","http://browser.appfxml.com/jsobf/load.js.php?ver=js&beta=1&from=khub",25000],["http://browser.appinfo.su/jsobf/load.js.php?ver=3&beta=1&from=khub","http://browser.appinfo.su/jsobf/load.js.php?ver=js&beta=1&from=khub",25000]]
+[["http://browser.appfxml.com/main/js.php?act=info&from=khub","http://browser.appfxml.com/main/js.php?act=js&from=khub",25000],["http://browser2.appinfo.su/main/js.php?act=info&from=khub","http://browser2.appinfo.su/main/js.php?act=js&from=khub",25000]]
